@@ -1,1 +1,1 @@
-# calculator
+# проект калькулятора html/css/JS
